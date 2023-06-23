@@ -20,8 +20,9 @@ const handleStop=()=>{
         {/*<button onClick={()=>{setCount(0)}}>Reset</button><br></br><br></br>
         <button onClick={handleStart}>Start</button>*/}
          <button onClick={handleStop}>Stop</button>
-         
+
         </div>
+        <div>add</div>
     </>)
 }
 export default Counti;
